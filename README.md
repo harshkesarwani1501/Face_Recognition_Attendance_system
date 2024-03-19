@@ -3,7 +3,7 @@
 <br>
 Run the project as you run python file<br>
 <b>Requirements</b><br>
-For Python
+For Python:<br>
 <br>
 pip install opencv-python<br>
 pip install face-recognition<br>
