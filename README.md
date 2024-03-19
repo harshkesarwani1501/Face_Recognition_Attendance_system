@@ -1,4 +1,4 @@
-<h1><b>Face Recognition Attendance System</b></h1>h1>
+<h1><b>Face Recognition Attendance System</b></h1>
 
 <br>
 Run the project as you run python file<br>
